@@ -1,0 +1,30 @@
+/* 追記 */
+.contact tr{
+    height: 7rem;
+  }
+  
+  .contact th{
+    width: 150px;
+    text-align: right;
+}
+  
+  .contact td{
+    padding-left: 10px;
+  }
+ 
+input[type=text],input[type=email]{
+    width: 480px;
+}
+
+textarea{
+    width: 480px;
+}
+
+.bu{padding: 10px; display: block ;
+    margin: 0 auto;color: white;font-size: 3rem;background-color: #008B8B;
+    border: none;
+}
+
+.bu:hover {
+    opacity: 0.6;
+}
